@@ -1,3 +1,3 @@
 # infinite-scroll-javascript
 
-Implement infinite scroll using vanilla javascript
+Projects in vanilla javscript
